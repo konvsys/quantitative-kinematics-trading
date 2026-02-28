@@ -1,6 +1,6 @@
 # Quantitative Kinematics & Regime Decoding
 
-![Impulse-X Terminal Preview](assets/preview.png)
+![Impulse-X Terminal Preview](assets/Impulse_x_1.png)
 
 ## The Problem: The Phase Lag Death Spiral
 Most systematic strategies fail because they rely on **time-averaging indicators** (Moving Averages, RSI, MACD). In a non-stationary system like the limit order book, averaging past data creates a terminal phase lag. By the time your indicator signals a "trend," the institutional move is already exhausted.
