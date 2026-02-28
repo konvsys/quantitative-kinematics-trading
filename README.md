@@ -31,7 +31,7 @@ For the full mathematical derivation, LaTeX frameworks, and terminal implementat
 
 👉 **[Impulse-X Documentation & Technical Manual](https://konvsys.github.io/impulse-docs/)**
 
-## 📊 TradingView User? I've included a free Pine Script version of the Kinematic Velocity engine. Copy the code from the /pinescript folder and paste it into your editor
 ---
 [Secure your Alpha Seat on Gumroad](https://konvolut.gumroad.com/l/wjtou)
 
+📊 TradingView User? I've included a free Pine Script version of the Kinematic Velocity engine. Copy the code from the /pinescript folder and paste it into your editor
